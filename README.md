@@ -17,7 +17,7 @@ Tengo 29 años y una carrera profesional en otros sectores, pero mi entusiasmo p
 📌 **Y aprendiendo muchas más...**  
 
 ## 📂 Proyectos Destacados  
-🔹 [🎬 Web de Películas (TMDb API)](https://github.com/luisming96/web-peliculas)
+🔹 [🎬 Web de Películas (TMDb API)](🌍 [Ver Proyecto en Vercel](https://practica-empresa.vercel.app))
 
 ## 🔗 Contacto  
 📧 **Email:** [luisming96@gmail.com](mailto:luisming96@gmail.com)  
