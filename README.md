@@ -16,8 +16,6 @@ Tengo 29 años y una carrera profesional en otros sectores, pero mi entusiasmo p
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
 📌 **Y aprendiendo muchas más...**  
 
-## 📂 Proyectos Destacados  
-🔹 [🎬 Web de Películas (TMDb API)](🌍 [Ver Proyecto en Vercel](https://practica-empresa.vercel.app))
 
 ## 🔗 Contacto  
 📧 **Email:** [luisming96@gmail.com](mailto:luisming96@gmail.com)  
